@@ -159,7 +159,7 @@ public class ResourceCentre {
 		String output = "";
 		// write your code here
 		// Ammar is doing this part
-		// ammar still doing this part e
+		// ammar still doing this part ehh
 		
 		for(int i = 0;  i < chromebookList.size(); i++) {
 			output += String.format("%-10s %-30s %-10s, %-10s %-20s", chromebookList.get(i).getAssetTag(), chromebookList.get(i).getDescription(), ResourceCentre.showAvailability(chromebookList.get(i).getIsAvailable()), chromebookList.get(i).getDueDate(), chromebookList.get(i).getOs());
