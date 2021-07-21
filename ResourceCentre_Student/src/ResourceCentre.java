@@ -202,7 +202,7 @@ public class ResourceCentre {
 	}	
 	public static void addChromebook(ArrayList<Chromebook> chromebookList, Chromebook cb) {
 		// write your code here
-		// done by angelo
+		// done by angelo j
 		chromebookList.add(cb);
 		System.out.println("Successfully added Chromebook!");
 	}
